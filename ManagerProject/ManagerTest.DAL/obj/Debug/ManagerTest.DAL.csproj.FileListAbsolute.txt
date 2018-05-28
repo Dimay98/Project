@@ -1,0 +1,11 @@
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL\bin\Debug\ManagerTest.DAL.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL\bin\Debug\ManagerTest.DAL.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL\obj\Debug\ManagerTest.DAL.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL\obj\Debug\ManagerTest.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL\obj\Debug\ManagerTest.DAL.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL\obj\Debug\ManagerTest.DAL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL\bin\Debug\ManagerTest.DAL.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL\bin\Debug\ManagerTest.DAL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL\obj\Debug\ManagerTest.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL\obj\Debug\ManagerTest.DAL.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL\obj\Debug\ManagerTest.DAL.pdb

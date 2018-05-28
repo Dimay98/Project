@@ -1,0 +1,26 @@
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.BL.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.BL.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\bin\Debug\AutoMapper.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\bin\Debug\EnsureThat.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.DAL.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.DAL.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\bin\Debug\AutoMapper.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\obj\Debug\ManagerTest.BL.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\obj\Debug\ManagerTest.BL.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\obj\Debug\ManagerTest.BL.csproj.CopyComplete
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\obj\Debug\ManagerTest.BL.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.BL\obj\Debug\ManagerTest.BL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.BL.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.BL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\EnsureThat.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.DAL.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.DAL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\AutoMapper.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\obj\Debug\ManagerTest.BL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\obj\Debug\ManagerTest.BL.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\obj\Debug\ManagerTest.BL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.DAL.EF.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\ManagerTest.DAL.EF.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.BL\bin\Debug\ru\EntityFramework.resources.dll

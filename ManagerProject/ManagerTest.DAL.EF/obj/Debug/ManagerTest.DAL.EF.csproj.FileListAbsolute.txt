@@ -1,0 +1,30 @@
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.EF.dll.config
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.EF.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.EF.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\EntityFramework.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\EntityFramework.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\obj\Debug\ManagerTest.DAL.EF.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\obj\Debug\ManagerTest.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\obj\Debug\ManagerTest.DAL.EF.csproj.CopyComplete
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\obj\Debug\ManagerTest.DAL.EF.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest.DAL.EF\obj\Debug\ManagerTest.DAL.EF.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.EF.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.EF.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.EF.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ManagerTest.DAL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\obj\Debug\ManagerTest.DAL.EF.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\obj\Debug\ManagerTest.DAL.EF.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest.DAL.EF\obj\Debug\ManagerTest.DAL.EF.pdb

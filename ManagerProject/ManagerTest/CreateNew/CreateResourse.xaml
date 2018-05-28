@@ -1,0 +1,75 @@
+﻿<Window x:Class="ManagerTest.CreateNew.CreateResourse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManagerTest.CreateNew"
+        mc:Ignorable="d"
+       Title="Добавление ресурса" Height="300" Width="400">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text=" Название: "
+                   Grid.Row="0"
+                   Grid.Column="0"
+                   Padding="10 0"
+                   Margin="5"/>
+        <TextBox x:Name="CreateName"
+                 Grid.Row="0"
+                 Grid.Column="1"
+                 Padding="3"
+                 Margin="5"/>
+        <TextBlock Text="Серийный номер"
+                   Grid.Row="1"
+                   Grid.Column="0"
+                   Padding="10 0"
+                   Margin="5"/>
+        <TextBox x:Name="CreateSerialN"
+                 Grid.Row="1"
+                 Grid.Column="1"
+                 Padding="3"
+                 Margin="5"/>
+
+        <TextBlock Text="Время занятости:"
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   Margin="5"
+                   Padding="10 0"/>
+        <TextBox x:Name="CreateTime"
+                 Grid.Row="2"
+                 Grid.Column="1"
+                 Padding="3"
+                 Margin="5"/>
+        <TextBlock Text="Цель использования"
+                   Grid.Row="3"
+                   Grid.Column="0"
+                   Padding="10 0"
+                   Margin="5"/>
+        <TextBox x:Name="CreatePurposeToUse"
+                     Grid.Row="3"
+                     Grid.RowSpan="2"
+                     Grid.Column="1"
+                     Padding="3"
+                     Margin="5"/>
+
+        <Button x:Name="CreateButton"
+                Content="Добавить"
+                Grid.Row="4"
+                Grid.Column="0"
+                VerticalAlignment="Top"
+                Margin="5"
+                Padding="5"
+                Click="CreateButton_OnClick"/>
+    </Grid>
+</Window>

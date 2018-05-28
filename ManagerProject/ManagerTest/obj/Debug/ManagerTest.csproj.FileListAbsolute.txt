@@ -1,0 +1,105 @@
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\MainWindow.g.cs
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\App.g.cs
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest_MarkupCompile.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest_MarkupCompile.lref
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.exe.config
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.exe
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\EntityFramework.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\EntityFramework.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\MainWindow.baml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest.g.resources
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest.Properties.Resources.resources
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest.csproj.CopyComplete
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest.exe
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\ManagerTest.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\CreateNew\CreateResourse.g.cs
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\obj\Debug\CreateNew\CreateResourse.baml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.EF.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.EF.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.EF.dll.config
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\AutoMapper.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.BL.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Ninject.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\ManagerTest.BL.pdb
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\AutoMapper.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Ninject.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Дима\source\repos\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\CreateNew\CreateResourse.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.BL.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.EF.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Ninject.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.BL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.EF.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ManagerTest.DAL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\AutoMapper.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Ninject.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\CreateNew\CreateResourse.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.csproj.GenerateResource.Cache
