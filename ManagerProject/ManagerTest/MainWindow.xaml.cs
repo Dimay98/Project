@@ -33,14 +33,18 @@ namespace ManagerTest
         {
             InitializeComponent();
             context = new ResourseContext();
-            db = new RepositoryResourseEF();
+            db = new RepositoryResourseEF(context);
 
 
-
-
+            db.db.Resourses.Load();
+           
             getRes = new GetResourse();
-            context.Resourses.Load();
-            ResourseGrid.ItemsSource = context.Resourses.Local.ToBindingList();
+            // context.Resourses.Load();
+
+            //  ResourseGrid.ItemsSource = context.Resourses.Local.ToBindingList();
+            ResourseGrid.ItemsSource = getRes.ReturnResourse().ToList();
+           
+
            
 
             this.Closing += MainWindow_Closing;
@@ -55,6 +59,8 @@ namespace ManagerTest
 
         private void updateButton_Click(object sender, RoutedEventArgs e)
         {
+            //context.Resourses.Load();
+            ResourseGrid.ItemsSource = getRes.ReturnResourse().ToList();
             db.Save();
         }
         private void deleteButton_Click(object sender, RoutedEventArgs e)
@@ -70,8 +76,9 @@ namespace ManagerTest
                     }
                 }
             }
-          
-          
+            ResourseGrid.ItemsSource = getRes.ReturnResourse().ToList();
+
+
 
         }
         

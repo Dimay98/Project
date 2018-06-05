@@ -24,7 +24,8 @@ namespace ManagerTest.CreateNew
     /// </summary>
     public partial class CreateResourse : Window
     {
-        ResourseContext context1;
+        //ResourseContext context1;
+        ResourseContext db1;
         AddResourse resourse;
         public CreateResourse()
         {
@@ -39,7 +40,8 @@ namespace ManagerTest.CreateNew
 
                 resourse.AddRes(CreateName.Text, Convert.ToInt32(CreateSerialN.Text), CreateTime.Text, CreatePurposeToUse.Text);
 
-                //DB.Create(resourse);
+                db1.SaveChanges();
+
                 
                 this.Close();
             }
@@ -50,7 +52,7 @@ namespace ManagerTest.CreateNew
         }
         internal void AddDB(ResourseContext context)
         {
-            context1 = context;
+            db1 = context;
         }
     }
 }

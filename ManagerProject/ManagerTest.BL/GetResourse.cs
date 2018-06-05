@@ -19,7 +19,7 @@ namespace ManagerTest.BL
         }
         public IEnumerable<Resourse> ReturnResourse()
         {
-            return resourse.GetAll();
+            return resourse.GetAll().ToList();
         }
        
     }

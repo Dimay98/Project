@@ -33,9 +33,16 @@ namespace ManagerTest.DAL.EF.Repositories
         {
             this.db = new ResourseContext();
         }
+        public RepositoryResourseEF(ResourseContext context)
+        {
+            db = context;
+        }
         public virtual IEnumerable<Resourse> GetAll()
         {
-            return db.Resourses.Local.ToBindingList() ;
+            
+            //return db.Resourses.Local.ToBindingList() ;
+            return db.Resourses;
+
         }
         public void Load()
         {
@@ -49,9 +56,15 @@ namespace ManagerTest.DAL.EF.Repositories
        
         public void Delete(Resourse resourse)
         {
-            db.Resourses.Remove(resourse);
+            //db.Resourses.Remove(resourse);
+            //db.SaveChanges();
+
+            Resourse res = db.Resourses.Find(resourse.Id);
+            if (res != null)
+                db.Resourses.Remove(res);
             db.SaveChanges();
         }
+    
        
         public void Update(Resourse resourse)
         {

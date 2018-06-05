@@ -11,6 +11,7 @@ namespace ManagerTest.BL
     public class AddResourse
     {
         public RepositoryResourseEF resourse;
+        
        
         public AddResourse()
         {
@@ -20,7 +21,9 @@ namespace ManagerTest.BL
         {
             try
             {
+                
                 resourse.Create(new Resourse { Name = name, SerialN = serialn, Time = time, PurposeToUse = purposetouse });
+               
                 resourse.Save();
                 return true;
             }
