@@ -15,9 +15,7 @@ using System.Windows.Shapes;
 
 namespace ManagerTest.CreateNew
 {
-    /// <summary>
-    /// Логика взаимодействия для CreateUser.xaml
-    /// </summary>
+   
     public partial class CreateUser : Window
     {
         Context db1;
