@@ -51,7 +51,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddResourse.cs" />
+    <Compile Include="AddUser.cs" />
     <Compile Include="GetResourse.cs" />
+    <Compile Include="GetUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

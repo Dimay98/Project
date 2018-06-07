@@ -7,7 +7,7 @@ using ManagerTest.DAL.Domain;
 
 namespace ManagerTest.DAL.Repositories
 {
-    public interface IRepository<T> where T : Resourse
+    public interface IRepository<T> where T : class
     {
 
         IEnumerable<T> GetAll();

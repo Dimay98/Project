@@ -103,3 +103,9 @@ C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.g.resources
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.Properties.Resources.resources
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\ManagerTest.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\CreateNew\CreateUser.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\CreateNew\Resourses.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\CreateNew\Users.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\CreateNew\CreateUser.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\CreateNew\Resourses.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ManagerProject\ManagerTest\obj\Debug\CreateNew\Users.baml

@@ -70,7 +70,9 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AddResourses.cs" />
+    <Compile Include="AddUsers.cs" />
     <Compile Include="GetResourses.cs" />
+    <Compile Include="GetUsers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

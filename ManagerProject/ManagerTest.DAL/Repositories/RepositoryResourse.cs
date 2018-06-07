@@ -22,7 +22,7 @@ namespace ManagerTest.DAL.Repositories
         {
             ConnectString = ConfigurationManager.ConnectionStrings["ManagerConnection"].ConnectionString;
             sqlConnection = new SqlConnection(ConnectString);
-            sqlConnection.Open();
+          //  sqlConnection.Open();
         }
         public void Close()
         {

@@ -26,72 +26,29 @@ namespace ManagerTest
     /// </summary>
     public partial class MainWindow : Window
     {
-        public RepositoryResourseEF db;
-        public GetResourse getRes;
-        public ResourseContext context;
+       
         public MainWindow()
         {
             InitializeComponent();
-            context = new ResourseContext();
-            db = new RepositoryResourseEF(context);
-
-
-            db.db.Resourses.Load();
-           
-            getRes = new GetResourse();
-            // context.Resourses.Load();
-
-            //  ResourseGrid.ItemsSource = context.Resourses.Local.ToBindingList();
-            ResourseGrid.ItemsSource = getRes.ReturnResourse().ToList();
            
 
-           
-
-            this.Closing += MainWindow_Closing;
-          
 
         }
 
-            private void MainWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+      
+        private void CreateButton_Resourse(object sender, RoutedEventArgs e)
         {
-            db.Close();
+            Resourses res = new Resourses();
+            res.Show();
+            
         }
 
-        private void updateButton_Click(object sender, RoutedEventArgs e)
+        private void CreateButton_User(object sender, RoutedEventArgs e)
         {
-            //context.Resourses.Load();
-            ResourseGrid.ItemsSource = getRes.ReturnResourse().ToList();
-            db.Save();
+            Users us = new Users();
+            us.Show();
+            
+            
         }
-        private void deleteButton_Click(object sender, RoutedEventArgs e)
-        {
-            if (ResourseGrid.SelectedItems.Count > 0)
-            {
-                for (int i = 0; i < ResourseGrid.SelectedItems.Count; i++)
-                {
-                    Resourse resourse = ResourseGrid.SelectedItems[i] as Resourse;
-                    if (resourse != null)
-                    {
-                        db.Delete(resourse);
-                    }
-                }
-            }
-            ResourseGrid.ItemsSource = getRes.ReturnResourse().ToList();
-
-
-
-        }
-        
-
-        private void CreateButton_Click(object sender, RoutedEventArgs e)
-        {
-            CreateResourse resourseNew = new CreateResourse();
-            resourseNew.Owner = this;
-            resourseNew.Show();
-            resourseNew.AddDB(context);
-
-        }
-
-       
     }
 }

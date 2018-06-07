@@ -25,7 +25,7 @@ namespace ManagerTest.CreateNew
     public partial class CreateResourse : Window
     {
         //ResourseContext context1;
-        ResourseContext db1;
+        Context db1;
         AddResourse resourse;
         public CreateResourse()
         {
@@ -50,7 +50,7 @@ namespace ManagerTest.CreateNew
                 MessageBox.Show("Ошибка ввода!");
             }
         }
-        internal void AddDB(ResourseContext context)
+        internal void AddDB(Context context)
         {
             db1 = context;
         }

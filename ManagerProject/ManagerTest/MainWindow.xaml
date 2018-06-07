@@ -5,32 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ManagerTest"
         mc:Ignorable="d"
-          Title="Система контроля и распределения ресурсов" Height="350" Width="500">
-    <Window.Resources>
-        <Style TargetType="Button">
-            <Setter Property="Margin" Value="20 8 20 8" />
-            <Setter Property="Width" Value="100" />
-            <Setter Property="Height" Value="30" />
-        </Style>
-    </Window.Resources>
+          Title="Главное меню" Height="200" Width="300">
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*" />
-            <RowDefinition Height="Auto" />
-        </Grid.RowDefinitions>
-        <DataGrid AutoGenerateColumns="False" x:Name="ResourseGrid">
-            <DataGrid.Columns>
-                <DataGridTextColumn Binding="{Binding Name}" Header="Название" Width="100"/>
-                <DataGridTextColumn Binding="{Binding SerialN}" Header="Серийный номер" Width="125"/>
-                <DataGridTextColumn Binding="{Binding Time}" Header="Время занятости" Width="120"/>
-                <DataGridTextColumn Binding="{Binding PurposeToUse}" Header="Цель использования" Width="160"/>
-            </DataGrid.Columns>
-        </DataGrid>
+        <Button x:Name="Userss" Content="Пользователи" Click="CreateButton_User" Margin="10,69,182,71" />
+        <Button x:Name="Resoursess" Content="Ресурсы" Click="CreateButton_Resourse" Margin="165,69,10,71" />
 
-        <StackPanel HorizontalAlignment="Center"  Grid.Row="1" Orientation="Horizontal">
-            <Button x:Name="CreateButton" Content="Добавить" Click="CreateButton_Click" />
-            <Button x:Name="updateButton" Content="Обновить" Click="updateButton_Click" />
-            <Button x:Name="deleteButton" Content="Удалить" Click="deleteButton_Click" />
-        </StackPanel>
     </Grid>
 </Window>

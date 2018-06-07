@@ -1,0 +1,75 @@
+﻿<Window x:Class="ManagerTest.CreateNew.CreateUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManagerTest.CreateNew"
+        mc:Ignorable="d"
+         Title="Добавление пользователя" Height="250" Width="400">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text=" ФИО: "
+                   Grid.Row="0"
+                   Grid.Column="0"
+                   Padding="10 0"
+                   Margin="5"/>
+        <TextBox x:Name="CreateFio"
+                 Grid.Row="0"
+                 Grid.Column="1"
+                 Padding="3"
+                 Margin="5"/>
+        <TextBlock Text="Логин"
+                   Grid.Row="1"
+                   Grid.Column="0"
+                   Padding="10 0"
+                   Margin="5"/>
+        <TextBox x:Name="CreateLogin"
+                 Grid.Row="1"
+                 Grid.Column="1"
+                 Padding="3"
+                 Margin="5"/>
+
+        <TextBlock Text="Пароль"
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   Margin="5"
+                   Padding="10 0"/>
+        <TextBox x:Name="CreatePassword"
+                 Grid.Row="2"
+                 Grid.Column="1"
+                 Padding="3"
+                 Margin="5"/>
+        <TextBlock Text="Роль"
+                   Grid.Row="3"
+                   Grid.Column="0"
+                   Padding="10 0"
+                   Margin="5"/>
+
+
+        <Button x:Name="CreateButton"
+                Content="Добавить"
+                Grid.Row="4"
+                Grid.Column="0"
+                VerticalAlignment="Top"
+                Margin="5"
+                Padding="5"
+                Click="CreateButton_OnClick"/>
+
+        <RadioButton x:Name="radioButton" GroupName="usr" Content="User" Grid.Column="1" HorizontalAlignment="Left" Margin="10,5,0,0" Grid.Row="3" VerticalAlignment="Top" IsChecked="True" Checked="RadioButton_Checked"/>
+        <RadioButton x:Name="radioButton1" GroupName="usr" Content="Admin" Grid.Column="1" HorizontalAlignment="Left" Margin="97,5,0,0" Grid.Row="3" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+        <RadioButton x:Name="radioButton2" GroupName="usr" Content="Manager" Grid.Column="1" HorizontalAlignment="Left" Margin="184,5,0,0" Grid.Row="3" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+
+    </Grid>
+</Window>

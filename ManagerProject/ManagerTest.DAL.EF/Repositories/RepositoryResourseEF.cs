@@ -13,34 +13,17 @@ namespace ManagerTest.DAL.EF.Repositories
     public class RepositoryResourseEF :IRepository<Resourse>
     {
 
-        public ResourseContext db;
-        //public RepositoryResourseEF(DbContext context)
-        //{
-        //    db = context;
-        //    dbSet = context.Set<Resourse>();
-        //}
-        //public IEnumerable<Resourse> GetAll()
-        //{
-        //    return dbSet.Local.ToBindingList();
-        //}
-        //public ResourseContext db;
-
-        //public RepositoryResourseEF(ResourseContext context)
-        //{
-        //    db = context;
-        //}
+        public Context db;
+       
        public RepositoryResourseEF()
         {
-            this.db = new ResourseContext();
+            this.db = new Context();
         }
-        public RepositoryResourseEF(ResourseContext context)
-        {
-            db = context;
-        }
+      
         public virtual IEnumerable<Resourse> GetAll()
         {
             
-            //return db.Resourses.Local.ToBindingList() ;
+           
             return db.Resourses;
 
         }

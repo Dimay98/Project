@@ -50,7 +50,8 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\RepositoryResourseEF.cs" />
-    <Compile Include="ResourseContext.cs" />
+    <Compile Include="Repositories\RepositoryUserEF.cs" />
+    <Compile Include="Context.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

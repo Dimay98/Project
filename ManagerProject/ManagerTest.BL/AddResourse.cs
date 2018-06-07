@@ -29,6 +29,7 @@ namespace ManagerTest.BL
             }
             catch (Exception)
             {
+                
                 return false;
             }
         }
